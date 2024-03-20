@@ -1,0 +1,17 @@
+ O volume na unidade C ‚ Windows
+ O N£mero de S‚rie do Volume ‚ 78F2-1A92
+
+ Pasta de C:\Users\c064526\IdeaProjects\projetoTurma
+
+20/03/2024  16:19    <DIR>          .
+20/03/2024  16:18    <DIR>          ..
+20/03/2024  16:18    <DIR>          .idea
+20/03/2024  16:18                 0 Caio.txt
+20/03/2024  16:18                 0 Daniel.txt
+20/03/2024  16:18                 0 David.txt
+20/03/2024  16:19                 0 eduardocaldas.txt
+20/03/2024  16:18                17 marcio.txt
+20/03/2024  16:18                 9 marcosAlexandre.txt
+20/03/2024  16:18                14 README.md
+               7 arquivo(s)             40 bytes
+               3 pasta(s)   162.979.901.440 bytes dispon¡veis
